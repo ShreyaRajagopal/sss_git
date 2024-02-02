@@ -1,1 +1,5 @@
-# sss_git
+#include<stdio.h>
+int main()
+{
+printf("Hello");
+}
